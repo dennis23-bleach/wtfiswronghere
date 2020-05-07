@@ -23,5 +23,5 @@ def fizzbuzz(max_num):
 
 #----START OF SCRIPT
 if __name__=='__main__':
-    maxNum = 99
+    maxNum = 100
     fizzbuzz(maxNum)
